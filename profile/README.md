@@ -14,7 +14,7 @@
 
 | Buổi | Deadline | Nội dung chính |
 |------|----------|----------------|
-| 🟢 **TASK 1** |  | **Git & GitHub**, **CI/CD** |
+| 🟢 **TASK 1** |  | **Git & GitHub** |
 | 🟢 **TASK 2** |  | Dùng **AI** để thiết kế **FE** cho **BTL** |
 | 🟡 **TASK 3** |  | **BTL**: *Use Case Diagrams* & *Use Case Scenarios* |
 | 🟡 **TASK 4** |  | **BTL**: *Activity Diagrams*, *Sequence Diagrams*, *State Machine Diagram* |
